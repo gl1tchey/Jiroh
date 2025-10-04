@@ -2,7 +2,7 @@
 **Computer Science Student | Aspiring Developer**  
 *Crafting code, creating experiences.*
 
-![Hero GIF]([https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html](https://giphy.com/explore/my-code))
+![Hero GIF]([[https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html](https://giphy.com/explore/my-code)](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC))
 
 ---
 
