@@ -1,4 +1,4 @@
-# 🧑‍💻 Jiroh Bontilao  
+# Jiroh Bontilao  
 **Computer Science Student | Aspiring Developer**  
 *Crafting code, creating experiences.*
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Luau-%23000000?style=flat&logo=lua&logoColor=white" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jiroh&show_icons=true&theme=radical&hide_title=true" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 🧠 LeetCode Stats  
+## LeetCode Stats
 
 <p align="center">
   <img src="https://leetcode-stats-six.vercel.app/?username=Jiroh" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## Connect
 
 <p align="center">
   <a href="https://discord.gg/qXM3uQYwg2"><img src="https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white" /></a>
@@ -58,19 +58,8 @@
 
 ---
 
-## 🎵 Hobbies  
+## Hobbies
 
-<p align="center">
-  - 🎹 Keyboardist & Music Enthusiast<br>
-  - 🖥️ Commission Backend Development<br>
-  - 💻 Coding for Fun & Learning
-</p>
-
----
-
-## 💡 Glitchy Animation Effect
-
-<p align="center">
-  <h1 style="color:white; text-shadow:2px 0 red, -2px 0 blue;">Welcome to My GitHub Profile</h1>
-</p>
-
+- Keyboardist & Music Enthusiast  
+- Commission Backend Development  
+- Coding for Fun & Learning
